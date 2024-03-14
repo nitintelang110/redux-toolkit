@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(85, 85, 90);
+    color: white;
+  }
+  
+  .nav_bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: rgb(81, 81, 82);
+    box-shadow: 5px 5px 5px rgb(48, 48, 48);
+  }
